@@ -67,6 +67,18 @@
 </dependency>
 
 
+<!-- //dependency rajouter specialement pour le crud normalement 4 mais rajouter deux nouvelles  -->
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-thymeleaf</artifactId>
+</dependency>
+<dependency>
+	<groupId>com.h2database</groupId>
+	<artifactId>h2</artifactId>
+</dependency>
+
+
 	</dependencies>
 
 	<build>
